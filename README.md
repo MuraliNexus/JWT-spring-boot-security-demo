@@ -110,6 +110,4 @@ src/main/java/com/example/...
 ./mvnw test
 ```
 
-## 📄 License
 
-MIT
